@@ -9,21 +9,6 @@
   -webkit-font-smoothing: antialiased;
 }
 
-.facebook-responsive {
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-}
-
-.facebook-responsive iframe {
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
-
 .video{
   /*background-color: rgba(0, 0, 0, 0.73);*/ width: 60%;
   padding: 50px;
