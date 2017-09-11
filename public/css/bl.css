@@ -10,7 +10,7 @@
 }
 
 .video{
-  /*background-color: rgba(0, 0, 0, 0.73);*/ width: 60%;
+  width: 70%;
   padding: 50px;
   margin: 0 auto;
   text-align: center;
@@ -27,6 +27,13 @@
     float: left;
     margin-bottom: 25px;
     margin-left: 5px;
+}
+
+@media (max-width: 767px) {
+  .video {
+    width: 80%;
+    padding: 0px;
+  }
 }
 
 @media (max-width: 440px) {
