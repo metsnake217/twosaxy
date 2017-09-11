@@ -1,0 +1,1247 @@
+{
+  "data": [
+    {
+      "name": "total_video_views",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 30026
+        }
+      ],
+      "title": "Lifetime Total Video Views",
+      "description": "Lifetime: Total number of times your video was viewed for 3 seconds or viewed to the end, whichever came first. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_views/lifetime"
+    },
+    {
+      "name": "total_video_views_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 27314
+        }
+      ],
+      "title": "Lifetime Unique Video Views",
+      "description": "Lifetime: Number of unique people who viewed your video for 3 seconds or viewed to the end, whichever came first. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_views_unique/lifetime"
+    },
+    {
+      "name": "total_video_views_autoplayed",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 27135
+        }
+      ],
+      "title": "Lifetime Auto-Played Video Views",
+      "description": "Lifetime: Number of times your video started automatically playing and people viewed it for 3 seconds or viewed it to the end, whichever came first. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_views_autoplayed/lifetime"
+    },
+    {
+      "name": "total_video_views_clicked_to_play",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 2891
+        }
+      ],
+      "title": "Lifetime Clicked-to-Play Video Views",
+      "description": "Lifetime: Number of times people clicked to play your video and viewed it for 3 seconds or viewed it to the end, whichever came first. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_views_clicked_to_play/lifetime"
+    },
+    {
+      "name": "total_video_views_organic",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 30026
+        }
+      ],
+      "title": "Lifetime Organic Video Views",
+      "description": "Lifetime: Number of times your video was viewed for 3 seconds or viewed to the end, whichever came first, without any paid promotion. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_views_organic/lifetime"
+    },
+    {
+      "name": "total_video_views_organic_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 27314
+        }
+      ],
+      "title": "Lifetime Unique Organic Video Views",
+      "description": "Lifetime: Number unique viewers who viewed for 3 seconds or viewed to the end, whichever came first, without any paid promotion. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_views_organic_unique/lifetime"
+    },
+    {
+      "name": "total_video_views_paid",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Paid Video Views",
+      "description": "Lifetime: Number of times your video was viewed for 3 seconds or viewed to the end, whichever came first, after paid promotion. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_views_paid/lifetime"
+    },
+    {
+      "name": "total_video_views_paid_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Unique Paid Video Views",
+      "description": "Lifetime: Number of unique viewers who viewed for 3 seconds or viewed to the end, whichever came first, after paid promotion. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_views_paid_unique/lifetime"
+    },
+    {
+      "name": "total_video_views_sound_on",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 14205
+        }
+      ],
+      "title": "Lifetime Video Views with sound on",
+      "description": "Lifetime: Number of times your video sound was turned on and was viewed for 3 seconds or viewed to the end, whichever came first. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_views_sound_on/lifetime"
+    },
+    {
+      "name": "total_video_views_by_distribution_type",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "page_owned": 26415,
+            "shared": 3614,
+            "crossposted": 0
+          }
+        }
+      ],
+      "title": "Lifetime Video Views by Distribution Type (page_owned/shared/crossposted)",
+      "description": "Lifetime video views by distribution type. On asset level, there are three possible distribution types: (page_owned/shared/crossposted)",
+      "id": "1425139124249474/video_insights/total_video_views_by_distribution_type/lifetime"
+    },
+    {
+      "name": "total_video_view_time_by_distribution_type",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "page_owned": 579150689,
+            "shared": 74396893
+          }
+        }
+      ],
+      "title": "Lifetime Video View Time (in MS) by Distribution Type (page_owned/shared/crossposted)",
+      "description": "Lifetime video view time (in MS) by distribution type. On asset level, there are three possible distribution types: (page_owned/shared/crossposted)",
+      "id": "1425139124249474/video_insights/total_video_view_time_by_distribution_type/lifetime"
+    },
+    {
+      "name": "total_video_views_percentage_by_country_id",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "United States (US)": 0.34619996003464,
+            "France (FR)": 0.083627522813562,
+            "United Kingdom (GB)": 0.082794911077067,
+            "Germany (DE)": 0.062579098114967,
+            "Poland (PL)": 0.037434223672817,
+            "Italy (IT)": 0.035136215280091,
+            "Canada (CA)": 0.034570039299274,
+            "Spain (ES)": 0.025078265503231,
+            "Australia (AU)": 0.022413907946446,
+            "Hungary (HU)": 0.018217544794511,
+            "Netherlands (NL)": 0.016086058749084,
+            "Czech Republic (CZ)": 0.014653966562313,
+            "Brazil (BR)": 0.013654832478519,
+            "Belgium (BE)": 0.01345500566176,
+            "Mexico (MX)": 0.012955438619863,
+            "Switzerland (CH)": 0.012022913474988,
+            "Japan (JP)": 0.0094251648571238,
+            "Sweden (SE)": 0.0092919469792846,
+            "Austria (AT)": 0.0086924665290082,
+            "Ireland (IE)": 0.0075934190368347,
+            "Russia (RU)": 0.0072936788116965,
+            "Romania (RO)": 0.0071604609338573,
+            "Denmark (DK)": 0.0071271564643975,
+            "Portugal (PT)": 0.0070605475254779,
+            "Ukraine (UA)": 0.0068274162392593,
+            "Argentina (AR)": 0.0064277626057417,
+            "Slovakia (SK)": 0.0055951508692467,
+            "New Zealand (NZ)": 0.0050955838273496,
+            "Greece (GR)": 0.0049623659495104,
+            "Israel (IL)": 0.0047625391327516,
+            "Thailand (TH)": 0.0043961899686938,
+            "Norway (NO)": 0.004362885499234,
+            "Chile (CL)": 0.0040964497435556,
+            "Finland (FI)": 0.0039965363351762,
+            "Malaysia (MY)": 0.0034303603543596,
+            "Turkey (TR)": 0.00336375141544,
+            "Slovenia (SI)": 0.0028308799040831,
+            "Lithuania (LT)": 0.0026643575567841,
+            "Croatia (HR)": 0.0024312262705655,
+            "Bulgaria (BG)": 0.0021314860454273,
+            "Singapore (SG)": 0.0018317458202891,
+            "Taiwan (TW)": 0.0015986145340705,
+            "Costa Rica (CR)": 0.0015320055951509,
+            "Serbia (RS)": 0.0015320055951509,
+            "Indonesia (ID)": 0.0015320055951509
+          }
+        }
+      ],
+      "title": null,
+      "description": null,
+      "id": "1425139124249474/video_insights/total_video_views_percentage_by_country_id/lifetime"
+    },
+    {
+      "name": "total_video_views_percentage_by_region_id",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "England": "ImmMap",
+            "California": "ImmMap",
+            "New York": "ImmMap",
+            "Île-de-France": "ImmMap",
+            "Colorado": "ImmMap",
+            "Texas": "ImmMap",
+            "Florida": "ImmMap",
+            "Pennsylvania": "ImmMap",
+            "Massachusetts": "ImmMap",
+            "Illinois": "ImmMap",
+            "Nordrhein-Westfalen": "ImmMap",
+            "Ontario": "ImmMap",
+            "New Jersey": "ImmMap",
+            "Ohio": "ImmMap",
+            "Washington": "ImmMap",
+            "Bayern": "ImmMap",
+            "Masovian Voivodeship": "ImmMap",
+            "Michigan": "ImmMap",
+            "Lombardia": "ImmMap",
+            "North Carolina": "ImmMap",
+            "Baden-Württemberg": "ImmMap",
+            "Rhône-Alpes": "ImmMap",
+            "Georgia": "ImmMap",
+            "Quebec": "ImmMap",
+            "Scotland": "ImmMap",
+            "Flemish Region": "ImmMap",
+            "Missouri": "ImmMap",
+            "Virginia": "ImmMap",
+            "Arizona": "ImmMap",
+            "Budapest": "ImmMap",
+            "Berlin": "ImmMap",
+            "Victoria": "ImmMap",
+            "Provence-Alpes-Côte d'Azur": "ImmMap",
+            "Bretagne": "ImmMap",
+            "Wisconsin": "ImmMap",
+            "New South Wales": "ImmMap",
+            "Maryland": "ImmMap",
+            "São Paulo (state)": "ImmMap",
+            "Cataluña": "ImmMap",
+            "Minnesota": "ImmMap",
+            "British Columbia": "ImmMap",
+            "Pays de la Loire": "ImmMap",
+            "Indiana": "ImmMap",
+            "Oregon": "ImmMap",
+            "Queensland": "ImmMap"
+          }
+        }
+      ],
+      "title": null,
+      "description": null,
+      "id": "1425139124249474/video_insights/total_video_views_percentage_by_region_id/lifetime"
+    },
+    {
+      "name": "total_video_views_percentage_by_age_bucket_and_gender",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "U.13-17": 0.00013321787783921,
+            "U.18-24": 0.00096582961433424,
+            "U.25-34": 0.0042629720908546,
+            "U.35-44": 0.0042962765603144,
+            "U.45-54": 0.0016319190035303,
+            "U.55-64": 0.00089922067541464,
+            "U.65+": 0.0012988743089323,
+            "F.13-17": 0.0026643575567841,
+            "F.18-24": 0.035569173383068,
+            "F.25-34": 0.10707386931326,
+            "F.35-44": 0.064710584160394,
+            "F.45-54": 0.026377139812163,
+            "F.55-64": 0.013854659295277,
+            "F.65+": 0.010624125757677,
+            "M.13-17": 0.0069273296476387,
+            "M.18-24": 0.080430293745421,
+            "M.25-34": 0.28075667754613,
+            "M.35-44": 0.21921001798441,
+            "M.45-54": 0.090488243522281,
+            "M.55-64": 0.028142276693532,
+            "M.65+": 0.019249983347765
+          }
+        }
+      ],
+      "title": null,
+      "description": null,
+      "id": "1425139124249474/video_insights/total_video_views_percentage_by_age_bucket_and_gender/lifetime"
+    },
+    {
+      "name": "total_video_view_time_by_country_id",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "United States (US)": 3914,
+            "France (FR)": 899,
+            "United Kingdom (GB)": 827,
+            "Germany (DE)": 691,
+            "Italy (IT)": 390,
+            "Poland (PL)": 390,
+            "Canada (CA)": 379,
+            "Spain (ES)": 280,
+            "Australia (AU)": 253,
+            "Hungary (HU)": 189,
+            "Netherlands (NL)": 173,
+            "Brazil (BR)": 155,
+            "Mexico (MX)": 154,
+            "Czech Republic (CZ)": 153,
+            "Belgium (BE)": 134,
+            "Switzerland (CH)": 111,
+            "Japan (JP)": 106,
+            "Sweden (SE)": 95,
+            "Austria (AT)": 95,
+            "Portugal (PT)": 79,
+            "Ireland (IE)": 77,
+            "Argentina (AR)": 75,
+            "Romania (RO)": 73,
+            "Ukraine (UA)": 72,
+            "Russia (RU)": 70,
+            "Denmark (DK)": 69,
+            "New Zealand (NZ)": 62,
+            "Israel (IL)": 54,
+            "Slovakia (SK)": 51,
+            "Greece (GR)": 47,
+            "Chile (CL)": 45,
+            "Norway (NO)": 45,
+            "Thailand (TH)": 44,
+            "Finland (FI)": 40,
+            "Turkey (TR)": 33,
+            "Malaysia (MY)": 33,
+            "Slovenia (SI)": 29,
+            "Lithuania (LT)": 28,
+            "Bulgaria (BG)": 23,
+            "Croatia (HR)": 22,
+            "Taiwan (TW)": 22,
+            "Indonesia (ID)": 19,
+            "Puerto Rico (PR)": 17,
+            "Philippines (PH)": 16,
+            "Serbia (RS)": 15
+          }
+        }
+      ],
+      "title": "Lifetime Video View Time (in Minutes) by Country",
+      "description": "Lifetime video view time (in Minutes) by country.",
+      "id": "1425139124249474/video_insights/total_video_view_time_by_country_id/lifetime"
+    },
+    {
+      "name": "total_video_view_time_by_region_id",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "England - United Kingdom": 40983837,
+            "California - United States": 29944198,
+            "New York - United States": 22480564,
+            "Île-de-France - France": 14033317,
+            "Texas - United States": 13189799,
+            "Pennsylvania - United States": 12365306,
+            "Colorado - United States": 12167227,
+            "Florida - United States": 11758178,
+            "Massachusetts - United States": 11180121,
+            "Illinois - United States": 9482040,
+            "Nordrhein-Westfalen - Germany": 8633098,
+            "New Jersey - United States": 8497461,
+            "Washington - United States": 8063840,
+            "Ontario - Canada": 7865048,
+            "Ohio - United States": 7151595,
+            "Michigan - United States": 7055352,
+            "Bayern - Germany": 6822548,
+            "Masovian Voivodeship - Poland": 6450215,
+            "Baden-Württemberg - Germany": 6310225,
+            "Lombardia - Italy": 6190751,
+            "North Carolina - United States": 5909861,
+            "Georgia - United States": 5474739,
+            "Quebec - Canada": 5469499,
+            "Rhône-Alpes - France": 5084225,
+            "Scotland - United Kingdom": 5009336,
+            "Virginia - United States": 4802950,
+            "Missouri - United States": 4587683,
+            "Arizona - United States": 4580599,
+            "Flemish Region - Belgium": 4280511,
+            "Berlin - Germany": 4269799,
+            "Provence-Alpes-Côte d'Azur - France": 4263848,
+            "Budapest - Hungary": 4240477,
+            "Victoria - Australia": 4212638,
+            "New South Wales - Australia": 4170274,
+            "Bretagne - France": 4099073,
+            "Wisconsin - United States": 4084977,
+            "Maryland - United States": 4059197,
+            "British Columbia - Canada": 3976042,
+            "São Paulo (state) - Brazil": 3765849,
+            "Minnesota - United States": 3751238,
+            "Oregon - United States": 3712796,
+            "Queensland - Australia": 3674586,
+            "Cataluña - Spain": 3522795,
+            "Pays de la Loire - France": 3486902,
+            "Aquitaine - France": 3356807
+          }
+        }
+      ],
+      "title": "Lifetime Video View Time (in MS) by Region ID",
+      "description": "Lifetime video view time (in MS) by region ID.",
+      "id": "1425139124249474/video_insights/total_video_view_time_by_region_id/lifetime"
+    },
+    {
+      "name": "total_video_view_time_by_age_bucket_and_gender",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "U.13-17": 184713,
+            "U.18-24": 778897,
+            "U.25-34": 3206753,
+            "U.35-44": 2638926,
+            "U.45-54": 913528,
+            "U.55-64": 558243,
+            "U.65+": 852274,
+            "F.13-17": 2009838,
+            "F.18-24": 26201935,
+            "F.25-34": 70664812,
+            "F.35-44": 40237201,
+            "F.45-54": 15394054,
+            "F.55-64": 8071698,
+            "F.65+": 6237224,
+            "M.13-17": 5851806,
+            "M.18-24": 58048502,
+            "M.25-34": 188834082,
+            "M.35-44": 138014147,
+            "M.45-54": 55250613,
+            "M.55-64": 17546048,
+            "M.65+": 11522882
+          }
+        }
+      ],
+      "title": "Lifetime Video View Time (in MS) by Age Bucket and Gender",
+      "description": "Lifetime video view time (in MS) by age bucket and gender.",
+      "id": "1425139124249474/video_insights/total_video_view_time_by_age_bucket_and_gender/lifetime"
+    },
+    {
+      "name": "total_video_view_time_percentage_by_country_id",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "United States (US)": 0.35935765729755,
+            "France (FR)": 0.082535072404261,
+            "United Kingdom (GB)": 0.076015846999186,
+            "Germany (DE)": 0.063524684573005,
+            "Italy (IT)": 0.035886851464168,
+            "Poland (PL)": 0.035846650871703,
+            "Canada (CA)": 0.034815980697791,
+            "Spain (ES)": 0.025708346970825,
+            "Australia (AU)": 0.023307573036052,
+            "Hungary (HU)": 0.017361141426425,
+            "Netherlands (NL)": 0.015955361609769,
+            "Brazil (BR)": 0.014306939934482,
+            "Mexico (MX)": 0.014225513575536,
+            "Czech Republic (CZ)": 0.014092334290053,
+            "Belgium (BE)": 0.012322215278275,
+            "Switzerland (CH)": 0.010256485043502,
+            "Japan (JP)": 0.0097413381601341,
+            "Sweden (SE)": 0.0087813713309707,
+            "Austria (AT)": 0.0087237840931986,
+            "Portugal (PT)": 0.0073432648703457,
+            "Ireland (IE)": 0.0070691547597218,
+            "Argentina (AR)": 0.0069568660725303,
+            "Romania (RO)": 0.0067649902191819,
+            "Ukraine (UA)": 0.006627304758355,
+            "Russia (RU)": 0.0064772621253459,
+            "Denmark (DK)": 0.0064212677325765,
+            "New Zealand (NZ)": 0.0057336437364403,
+            "Israel (IL)": 0.004970602125187,
+            "Slovakia (SK)": 0.0047234143083403,
+            "Greece (GR)": 0.0043788885137364,
+            "Chile (CL)": 0.0041918003760589,
+            "Norway (NO)": 0.0041380919683366,
+            "Thailand (TH)": 0.0040565982845301,
+            "Finland (FI)": 0.0036758058114887,
+            "Turkey (TR)": 0.0031209846936592,
+            "Malaysia (MY)": 0.003074770767035,
+            "Slovenia (SI)": 0.0027259147597917,
+            "Lithuania (LT)": 0.0025983310883093,
+            "Bulgaria (BG)": 0.0021324308105236,
+            "Croatia (HR)": 0.0020658602941629,
+            "Taiwan (TW)": 0.0020346307394035,
+            "Indonesia (ID)": 0.0018240569360717,
+            "Puerto Rico (PR)": 0.0016516961116995,
+            "Philippines (PH)": 0.0015394854601421,
+            "Serbia (RS)": 0.0014505952223078
+          }
+        }
+      ],
+      "title": null,
+      "description": null,
+      "id": "1425139124249474/video_insights/total_video_view_time_percentage_by_country_id/lifetime"
+    },
+    {
+      "name": "total_video_view_time_percentage_by_region_id",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "England": "ImmMap",
+            "California": "ImmMap",
+            "New York": "ImmMap",
+            "Île-de-France": "ImmMap",
+            "Texas": "ImmMap",
+            "Pennsylvania": "ImmMap",
+            "Colorado": "ImmMap",
+            "Florida": "ImmMap",
+            "Massachusetts": "ImmMap",
+            "Illinois": "ImmMap",
+            "Nordrhein-Westfalen": "ImmMap",
+            "New Jersey": "ImmMap",
+            "Washington": "ImmMap",
+            "Ontario": "ImmMap",
+            "Ohio": "ImmMap",
+            "Michigan": "ImmMap",
+            "Bayern": "ImmMap",
+            "Masovian Voivodeship": "ImmMap",
+            "Baden-Württemberg": "ImmMap",
+            "Lombardia": "ImmMap",
+            "North Carolina": "ImmMap",
+            "Georgia": "ImmMap",
+            "Quebec": "ImmMap",
+            "Rhône-Alpes": "ImmMap",
+            "Scotland": "ImmMap",
+            "Virginia": "ImmMap",
+            "Missouri": "ImmMap",
+            "Arizona": "ImmMap",
+            "Flemish Region": "ImmMap",
+            "Berlin": "ImmMap",
+            "Provence-Alpes-Côte d'Azur": "ImmMap",
+            "Budapest": "ImmMap",
+            "Victoria": "ImmMap",
+            "New South Wales": "ImmMap",
+            "Bretagne": "ImmMap",
+            "Wisconsin": "ImmMap",
+            "Maryland": "ImmMap",
+            "British Columbia": "ImmMap",
+            "São Paulo (state)": "ImmMap",
+            "Minnesota": "ImmMap",
+            "Oregon": "ImmMap",
+            "Queensland": "ImmMap",
+            "Cataluña": "ImmMap",
+            "Pays de la Loire": "ImmMap",
+            "Aquitaine": "ImmMap"
+          }
+        }
+      ],
+      "title": null,
+      "description": null,
+      "id": "1425139124249474/video_insights/total_video_view_time_percentage_by_region_id/lifetime"
+    },
+    {
+      "name": "total_video_view_time_percentage_by_age_bucket_and_gender",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "U.13-17": 0.00028263129584955,
+            "U.18-24": 0.0011917984573004,
+            "U.25-34": 0.0049066863504974,
+            "U.35-44": 0.0040378483107906,
+            "U.45-54": 0.0013977987604275,
+            "U.55-64": 0.00085417346093096,
+            "U.65+": 0.0013040733734977,
+            "F.13-17": 0.0030752741733807,
+            "F.18-24": 0.040091855163501,
+            "F.25-34": 0.10812496893302,
+            "F.35-44": 0.061567362665263,
+            "F.45-54": 0.02355460325152,
+            "F.55-64": 0.012350589646891,
+            "F.65+": 0.0095436417665455,
+            "M.13-17": 0.0089539096481578,
+            "M.18-24": 0.088820620867969,
+            "M.25-34": 0.28893700657896,
+            "M.35-44": 0.21117689178445,
+            "M.45-54": 0.084539541606016,
+            "M.55-64": 0.026847391809339,
+            "M.65+": 0.017631282430481
+          }
+        }
+      ],
+      "title": null,
+      "description": null,
+      "id": "1425139124249474/video_insights/total_video_view_time_percentage_by_age_bucket_and_gender/lifetime"
+    },
+    {
+      "name": "total_video_play_count",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 84937
+        }
+      ],
+      "title": "Lifetime Video Play Count",
+      "description": "Lifetime Video Play Count.",
+      "id": "1425139124249474/video_insights/total_video_play_count/lifetime"
+    },
+    {
+      "name": "total_video_complete_views",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 5828
+        }
+      ],
+      "title": "Lifetime Total Video Watches at 95%",
+      "description": "Lifetime: Total number of times your video was watched at 95% of its length, including watches that skipped to this point. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_complete_views/lifetime"
+    },
+    {
+      "name": "total_video_complete_views_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 5780
+        }
+      ],
+      "title": "Lifetime Unique Video Watches at 95%",
+      "description": "Lifetime: Total number of unique people who watched your video at 95% of its length or more, including people that skipped to this point. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_complete_views_unique/lifetime"
+    },
+    {
+      "name": "total_video_complete_views_auto_played",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 4582
+        }
+      ],
+      "title": "Lifetime Auto-Played Video Watches at 95%",
+      "description": "Lifetime: Number of times your video started automatically playing and people watched it at 95% of its length, including watches that skipped to this point. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_complete_views_auto_played/lifetime"
+    },
+    {
+      "name": "total_video_complete_views_clicked_to_play",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 1246
+        }
+      ],
+      "title": "Lifetime Clicked-to-Play Video Watches at 95%",
+      "description": "Lifetime: Number of times people clicked to play your video and watched it at 95% of its length, including watches that skipped to this point. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_complete_views_clicked_to_play/lifetime"
+    },
+    {
+      "name": "total_video_complete_views_organic",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 5828
+        }
+      ],
+      "title": "Lifetime Organic Watches at 95%",
+      "description": "Lifetime: Number of times your video was watches at 95% of
+                its length without any paid promotion, including watches that skipped to this point. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_complete_views_organic/lifetime"
+    },
+    {
+      "name": "total_video_complete_views_organic_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 5780
+        }
+      ],
+      "title": "Lifetime Organic Unique Watches at 95%",
+      "description": "Lifetime: The number of unique people who watched your video at 95% of its length without any paid promotion, including people that skipped to this point. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_complete_views_organic_unique/lifetime"
+    },
+    {
+      "name": "total_video_complete_views_paid",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Paid Watches at 95%",
+      "description": "Lifetime: Number of times your video was watched at 95% of its length after paid promotion, including watches that skipped to this point. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_complete_views_paid/lifetime"
+    },
+    {
+      "name": "total_video_complete_views_paid_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Paid Unique Watches at 95%",
+      "description": "Lifetime: The number of unique people who watched your video at 95% of its length after paid promotion, including people that skipped to this point. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_complete_views_paid_unique/lifetime"
+    },
+    {
+      "name": "total_video_30s_views",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 8325
+        }
+      ],
+      "title": "Lifetime Total 30-Second Views",
+      "description": "Lifetime: Total number of times your video was viewed for 30 seconds or 97% of the video if video is less than 30 seconds. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_30s_views/lifetime"
+    },
+    {
+      "name": "total_video_30s_views_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 7930
+        }
+      ],
+      "title": "Lifetime Unique 30-Second Views",
+      "description": "Lifetime: Number of unique people who viewed your video for 30 seconds or 97% of the video if video is less than 30 seconds. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_30s_views_unique/lifetime"
+    },
+    {
+      "name": "total_video_30s_views_auto_played",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 6616
+        }
+      ],
+      "title": "Lifetime Auto-Played 30-Second Views",
+      "description": "Lifetime: Number of times your video started automatically playing and people viewed it for 30 seconds or 97% of the  video if video is less than 30 seconds. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_30s_views_auto_played/lifetime"
+    },
+    {
+      "name": "total_video_30s_views_clicked_to_play",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 1709
+        }
+      ],
+      "title": "Lifetime Clicked-to-Play 30-Second Views",
+      "description": "Lifetime: Number of times people clicked to play your video and viewed it for 30 seconds or 97% of the video if video is less than 30 seconds. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_30s_views_clicked_to_play/lifetime"
+    },
+    {
+      "name": "total_video_30s_views_organic",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 8325
+        }
+      ],
+      "title": "Lifetime Organic 30-Second Views",
+      "description": "Lifetime: Number of times your video was viewed for 30 seconds or 97% of the video if video is less than 30 seconds without a paid promotion. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_30s_views_organic/lifetime"
+    },
+    {
+      "name": "total_video_30s_views_paid",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Paid 30-Second Views",
+      "description": "Lifetime: Number of times your video was viewed for 30 seconds or 97% of the video if video is less than 30 seconds after a paid promotion. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_30s_views_paid/lifetime"
+    },
+    {
+      "name": "total_video_10s_views",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 16543
+        }
+      ],
+      "title": "Lifetime Total 10-Second Views",
+      "description": "Lifetime: Total number of times your video was viewed for 10 seconds or viewed to the end, whichever came first. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_10s_views/lifetime"
+    },
+    {
+      "name": "total_video_10s_views_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 15864
+        }
+      ],
+      "title": "Lifetime Unique 10-Second Views",
+      "description": "Lifetime: Number of unique people who viewed your video for 10 seconds or viewed to the end, whichever came first. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_10s_views_unique/lifetime"
+    },
+    {
+      "name": "total_video_10s_views_auto_played",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 14020
+        }
+      ],
+      "title": "Lifetime Auto-Played 10-Second Views",
+      "description": "Lifetime: Number of times your video started automatically playing and people viewed it for 10 seconds, or viewed it to the end, whichever came first. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_10s_views_auto_played/lifetime"
+    },
+    {
+      "name": "total_video_10s_views_clicked_to_play",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 2523
+        }
+      ],
+      "title": "Lifetime Clicked-to-Play 10-Second Views",
+      "description": "Lifetime: Number of times people clicked to play your video and viewed it for 10 seconds or viewed it to the end, whichever came first. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_10s_views_clicked_to_play/lifetime"
+    },
+    {
+      "name": "total_video_10s_views_organic",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 16543
+        }
+      ],
+      "title": "Lifetime Organic 10-Second Views",
+      "description": "Lifetime: Number of times your video was viewed for 10 seconds or viewed to the end, whichever came first, without a paid promotion. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_10s_views_organic/lifetime"
+    },
+    {
+      "name": "total_video_10s_views_paid",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Paid 10-Second Views",
+      "description": "Lifetime: Number of times your video was viewed for 10 seconds or viewed to the end, whichever came first, after a paid promotion. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_10s_views_paid/lifetime"
+    },
+    {
+      "name": "total_video_10s_views_sound_on",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 11882
+        }
+      ],
+      "title": "Lifetime 10-Second Views with sound on",
+      "description": "Lifetime: Number of times your video sound was turned on and was viewed for 10 seconds or viewed to the end, whichever came first. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_10s_views_sound_on/lifetime"
+    },
+    {
+      "name": "total_video_retention_graph",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "0": 0.7227,
+            "1": 1,
+            "2": 0.9907,
+            "3": 0.924,
+            "4": 0.8098,
+            "5": 0.7353,
+            "6": 0.6887,
+            "7": 0.6409,
+            "8": 0.586,
+            "9": 0.5428,
+            "10": 0.5079,
+            "11": 0.4779,
+            "12": 0.4523,
+            "13": 0.4344,
+            "14": 0.4197,
+            "15": 0.4057,
+            "16": 0.3895,
+            "17": 0.3744,
+            "18": 0.3605,
+            "19": 0.3471,
+            "20": 0.3375,
+            "21": 0.3264,
+            "22": 0.3182,
+            "23": 0.3108,
+            "24": 0.3047,
+            "25": 0.2977,
+            "26": 0.2909,
+            "27": 0.2858,
+            "28": 0.2783,
+            "29": 0.2718,
+            "30": 0.266,
+            "31": 0.2607,
+            "32": 0.2553,
+            "33": 0.2504,
+            "34": 0.2436,
+            "35": 0.2352,
+            "36": 0.224,
+            "37": 0.2085,
+            "38": 0.1934,
+            "39": 0.1266,
+            "40": 0.07
+          }
+        }
+      ],
+      "title": "Lifetime Percentage of viewers at each interval (Video )",
+      "description": "Lifetime: Views of your video at each moment as a percentage of all views, including views shorter than 3 seconds. (video asset) (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_retention_graph/lifetime"
+    },
+    {
+      "name": "total_video_retention_graph_autoplayed",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "0": 0.7163,
+            "1": 1,
+            "2": 0.9901,
+            "3": 0.9181,
+            "4": 0.7945,
+            "5": 0.7139,
+            "6": 0.6637,
+            "7": 0.6122,
+            "8": 0.5535,
+            "9": 0.5076,
+            "10": 0.4709,
+            "11": 0.44,
+            "12": 0.4138,
+            "13": 0.3948,
+            "14": 0.3798,
+            "15": 0.3655,
+            "16": 0.3492,
+            "17": 0.3341,
+            "18": 0.3203,
+            "19": 0.3076,
+            "20": 0.2984,
+            "21": 0.2879,
+            "22": 0.2798,
+            "23": 0.2729,
+            "24": 0.2668,
+            "25": 0.2599,
+            "26": 0.2535,
+            "27": 0.2482,
+            "28": 0.2416,
+            "29": 0.2351,
+            "30": 0.2296,
+            "31": 0.225,
+            "32": 0.2204,
+            "33": 0.2161,
+            "34": 0.21,
+            "35": 0.2024,
+            "36": 0.1926,
+            "37": 0.1789,
+            "38": 0.1667,
+            "39": 0.1056,
+            "40": 0.0554
+          }
+        }
+      ],
+      "title": "Lifetime Percentage of auto-played viewers at each interval (Video )",
+      "description": "Lifetime: Auto-played views of your video at each moment as a percentage of all views, including views shorter than 3 seconds. (Video ) (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_retention_graph_autoplayed/lifetime"
+    },
+    {
+      "name": "total_video_retention_graph_clicked_to_play",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "0": 0.7883,
+            "1": 1,
+            "2": 0.9961,
+            "3": 0.985,
+            "4": 0.9668,
+            "5": 0.9553,
+            "6": 0.9456,
+            "7": 0.9356,
+            "8": 0.9198,
+            "9": 0.9047,
+            "10": 0.8885,
+            "11": 0.8669,
+            "12": 0.8481,
+            "13": 0.8415,
+            "14": 0.8295,
+            "15": 0.8191,
+            "16": 0.8037,
+            "17": 0.789,
+            "18": 0.7736,
+            "19": 0.7528,
+            "20": 0.7401,
+            "21": 0.7223,
+            "22": 0.7131,
+            "23": 0.7007,
+            "24": 0.6946,
+            "25": 0.6861,
+            "26": 0.6753,
+            "27": 0.6722,
+            "28": 0.656,
+            "29": 0.6487,
+            "30": 0.6402,
+            "31": 0.6275,
+            "32": 0.6143,
+            "33": 0.6032,
+            "34": 0.5889,
+            "35": 0.5723,
+            "36": 0.5469,
+            "37": 0.5125,
+            "38": 0.4682,
+            "39": 0.3425,
+            "40": 0.2194
+          }
+        }
+      ],
+      "title": "Lifetime Percentage of viewers clicked-to-play at each interval (Video )",
+      "description": "Lifetime: Clicked-to-play views of your video at each moment as a percentage of all views, including views shorter than 3 seconds. (Video ) (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_retention_graph_clicked_to_play/lifetime"
+    },
+    {
+      "name": "total_video_avg_time_watched",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 7694
+        }
+      ],
+      "title": "Lifetime Average time video viewed",
+      "description": "Lifetime: Average time video viewed (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_avg_time_watched/lifetime"
+    },
+    {
+      "name": "total_video_view_total_time",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 653547582
+        }
+      ],
+      "title": "Lifetime Total Video View Time (in MS)",
+      "description": "Lifetime: Total time (in ms) video has been viewed. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_view_total_time/lifetime"
+    },
+    {
+      "name": "total_video_view_total_time_organic",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 653547582
+        }
+      ],
+      "title": "Lifetime Total Organic Video View Time (in MS)",
+      "description": "Lifetime: Total time (in ms) video has been viewed in news feed or ticker or on your Page&#039;s Timeline. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_view_total_time_organic/lifetime"
+    },
+    {
+      "name": "total_video_view_total_time_paid",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Total Paid Video View Time (in MS)",
+      "description": "Lifetime: Total time (in ms) video has been viewed after paid promotion. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_view_total_time_paid/lifetime"
+    },
+    {
+      "name": "total_video_impressions",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 130934
+        }
+      ],
+      "title": "Lifetime Video Total Impressions",
+      "description": "Lifetime: The number of impressions of the video. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_impressions/lifetime"
+    },
+    {
+      "name": "total_video_impressions_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 86739
+        }
+      ],
+      "title": "Lifetime Video Total Reach",
+      "description": "Lifetime: The total number of people your video was served to. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_impressions_unique/lifetime"
+    },
+    {
+      "name": "total_video_impressions_paid_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Video Paid Reach",
+      "description": "Lifetime: Number of people your advertised Page Video was served to. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_impressions_paid_unique/lifetime"
+    },
+    {
+      "name": "total_video_impressions_paid",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Video Paid Impressions",
+      "description": "Lifetime: Number of impressions of your Page Video in an Ad or Sponsored Story. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_impressions_paid/lifetime"
+    },
+    {
+      "name": "total_video_impressions_organic_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 69986
+        }
+      ],
+      "title": "Lifetime Video organic reach",
+      "description": "Lifetime: Number of people who saw your Page Video in news feed or ticker, or on your Page&#039;s timeline. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_impressions_organic_unique/lifetime"
+    },
+    {
+      "name": "total_video_impressions_organic",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 105045
+        }
+      ],
+      "title": "Lifetime Video Organic Impressions",
+      "description": "Lifetime: The number of impressions of your Video in news feed or ticker or on your Page&#039;s Timeline. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_impressions_organic/lifetime"
+    },
+    {
+      "name": "total_video_impressions_viral_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 17259
+        }
+      ],
+      "title": "Lifetime Video viral reach",
+      "description": "Lifetime: Number of people who saw your Page Video in a story from a friend. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_impressions_viral_unique/lifetime"
+    },
+    {
+      "name": "total_video_impressions_viral",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 25889
+        }
+      ],
+      "title": "Lifetime Video Viral Impressions",
+      "description": "Lifetime: The number of impressions of your Page Video in a story generated by a friend. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_impressions_viral/lifetime"
+    },
+    {
+      "name": "total_video_impressions_fan_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 68592
+        }
+      ],
+      "title": "Lifetime Video reach by people who like your Page",
+      "description": "Lifetime: Number of people who saw your Page video because they&#039;ve liked your Page (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_impressions_fan_unique/lifetime"
+    },
+    {
+      "name": "total_video_impressions_fan",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 103360
+        }
+      ],
+      "title": "Lifetime Video Impressions by people who have liked your Page",
+      "description": "Lifetime: Number of impressions of your Page Video to people who have liked your Page. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_impressions_fan/lifetime"
+    },
+    {
+      "name": "total_video_impressions_fan_paid_unique",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Paid reach of a Video by people who like your Page",
+      "description": "Lifetime: Number of people who like your Page and who saw your Page Video in an ad or sponsored story. (Unique Users)",
+      "id": "1425139124249474/video_insights/total_video_impressions_fan_paid_unique/lifetime"
+    },
+    {
+      "name": "total_video_impressions_fan_paid",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": 0
+        }
+      ],
+      "title": "Lifetime Video Paid Impressions by people who have liked your Page",
+      "description": "Lifetime: Number of paid impressions of your Page Video Asset to people who have liked your Page. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_impressions_fan_paid/lifetime"
+    },
+    {
+      "name": "total_video_stories_by_action_type",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "like": 1689,
+            "comment": 60,
+            "share": 116
+          }
+        }
+      ],
+      "title": "Lifetime Video Stories by action type",
+      "description": "Lifetime: Number of stories created about your Page Video, by action type. (Total Count)",
+      "id": "1425139124249474/video_insights/total_video_stories_by_action_type/lifetime"
+    },
+    {
+      "name": "total_video_reactions_by_type_total",
+      "period": "lifetime",
+      "values": [
+        {
+          "value": {
+            "like": 1204,
+            "love": 416,
+            "wow": 15,
+            "haha": 11,
+            "sorry": 0,
+            "anger": 1
+          }
+        }
+      ],
+      "title": "Lifetime Reactions by type",
+      "description": "Lifetime: The total number of reactions to your post bytype.",
+      "id": "1425139124249474/video_insights/total_video_reactions_by_type_total/lifetime"
+    }
+  ]
+}
