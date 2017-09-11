@@ -26,4 +26,11 @@ module.exports = function(router) {
 		});
 	});
 
+    router.get('/error', function(req, res) {
+        res.render('error', {
+            title : 'Error',
+            menu : 'error'
+        });
+    });
+
 };
