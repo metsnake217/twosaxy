@@ -1,62 +1,11 @@
 doctype html
 html(lang='en')
   head
-     - var a = "layout." + title
-     - var language = "en"
-     - if(lang != null && lang != undefined)
-        - language = lang
-     - var testing = ""
-     - var isreghide = "isreghide"
-     - var isregpadding = "isregpadding"
-     - var menushare = "menushare"
-     - var menumyshares = "menumyshares2"
-     - var isadminroundaccountLeft = " isadminroundaccountLeft "
-     - var isregroundaccountLeft = " isregroundaccountLeft "
-     - var roundaccountLeft = isregroundaccountLeft
-     - if(isLoggedInAdmin == true)
-        - testing = "test"
-        - roundaccountLeft = isadminroundaccountLeft
-        - isreghide = ""
-        - isregpadding = ""
-        - menushare = ""
-        - menumyshares = ""
      title!= 'LeoP & Grace Kelly - Lookbook'
-     link(href='/css/animate.css', rel='stylesheet')
-     link(rel="stylesheet" type="text/css" href="/css/datatables.min.css")
-     link(href='/css/popup.css', rel='stylesheet')
-     link(href='/css/bootstrap.css', rel='stylesheet')
-     link(href='/css/bl.css', rel='stylesheet')
-     link(href='/css/fontello.css', rel='stylesheet')
-     link(href='/css/font-awesome.css', rel='stylesheet')
-     link(href='/css/animation.css', rel='stylesheet')
-     link(href='/css/hamburgers-master/dist/hamburgers.css', rel='stylesheet')
-     link(href='/javascripts/assets/animate.css', rel='stylesheet')
-     link(href="//fonts.googleapis.com/css?family=Reenie+Beanie:regular", rel="stylesheet", type="text/css")
      meta(http-equiv='Content-Type', content='text/html; charset=UTF-8')
      meta(http-equiv='X-UA-Compatible', content='IE=edge')
      meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no")
      meta(name='robots', content='noindex, nofollow')
-     script(type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js")
-     script(type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.12/datatables.min.js")
-     script(type="text/javascript" src="/javascripts/canvas2svg.js")
-     script(type="text/javascript" src="/javascripts/jvenn.min.js")
-     script(type="text/javascript" src="/javascripts/jquery.twbsPagination.min.js")
-     if (title=='Login')
-       script(type="text/javascript" src="/javascripts/jquery.slideout.js")
-     if (title=='Reagent Search')
-       script(type="text/javascript" src="/javascripts/jquery.slideout.js")
-     if (title=='Search')
-       script(type="text/javascript" src="/javascripts/jquery.slideout.js")
-     if (title=='Reports')
-       script(type="text/javascript" src="/javascripts/jquery.slideout.js")
-     if (title=='Share')
-       script(type="text/javascript" src="/javascripts/jquery.slideout.js")
-     if (title=='Orders')
-       script(type="text/javascript" src="/javascripts/jquery.slideout.js")
-     if (title=='Account')
-       script(type="text/javascript" src="/javascripts/jquery.slideout.js")
-     if (title=='Admins')
-       script(type="text/javascript" src="/javascripts/jquery.slideout.js")
      link(rel="shortcut icon" href="/images/saxophone.ico" type="image/x-icon")
      link(rel="icon" href="/images/saxophone.ico" type="image/x-icon")
   body(ontouchstart="")
@@ -70,8 +19,3 @@ html(lang='en')
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
     block content
-    script(type="text/javascript" src="/javascripts/bootstrap.min.js")
-    if(title=='Login')
-      script(type="text/javascript" src="/javascripts/image_preload.js")
-    script.
-      console.log("here");
