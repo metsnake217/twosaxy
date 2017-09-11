@@ -1,6 +1,6 @@
 doctype html
 html(lang='en')
-   head
+  head
      - var a = "layout." + title
      - var language = "en"
      - if(lang != null && lang != undefined)
@@ -59,10 +59,18 @@ html(lang='en')
        script(type="text/javascript" src="/javascripts/jquery.slideout.js")
      link(rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon")
      link(rel="icon" href="/images/favicon.ico" type="image/x-icon")
-   body(class=loggedIn, ontouchstart="")
-     block content
-     script(type="text/javascript" src="/javascripts/bootstrap.min.js")
-     if(title=='Login')
-        script(type="text/javascript" src="/javascripts/image_preload.js")
+  body(class=loggedIn, ontouchstart="")
     script.
-        console.log("here");
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    block content
+    script(type="text/javascript" src="/javascripts/bootstrap.min.js")
+    if(title=='Login')
+      script(type="text/javascript" src="/javascripts/image_preload.js")
+    script.
+      console.log("here");
