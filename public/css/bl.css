@@ -10,8 +10,8 @@
 }
 
 .video{
-  width: 70%;
-  padding: 50px;
+  width: 100%;
+  padding: 0px;
   margin: 0 auto;
   text-align: center;
   display: block;
@@ -30,17 +30,11 @@
 }
 
 @media (max-width: 767px) {
-  .video {
-    width: 80%;
-    padding: 0px;
-  }
+
 }
 
 @media (max-width: 440px) {
-  .video {
-    width: 100%;
-    padding: 0px;
-  }
+
 }
 
 body.large-screen .card-list-table tbody tr:nth-of-type(even) {
