@@ -19,7 +19,7 @@ module.exports = function(router) {
 		});
 	});
 
-	router.get('/about', isLoggedIn, function(req, res) {
+	router.get('/about', function(req, res) {
 		res.render('about', {
 			title : 'About Us',
 			menu : 'about'
