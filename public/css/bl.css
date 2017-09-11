@@ -9,7 +9,15 @@
   -webkit-font-smoothing: antialiased;
 }
 
+.video{
+  /*background-color: rgba(0, 0, 0, 0.73);*/ width: 60%; 
+  display: -webkit-inline-box; 
+  padding: 50px;
+}
 
+.imgvid{
+  width: 75%; margin: 0 auto; text-align: center; display: block;margin-top: 20px;margin-bottom: 10px;
+}
 
 /*new reports*/
 
